@@ -24,17 +24,17 @@
 #define DECEMBER 12
 
 //Select holiday names -- If you test for a holiday in the code, make the holiday's name a define and test for that instead
-#define NEW_YEAR "New Year"
-#define VALENTINES "Valentine's Day"
-#define APRIL_FOOLS "April Fool's Day"
-#define EASTER "Easter"
-#define HALLOWEEN "Halloween"
-#define CHRISTMAS "Christmas"
-#define FESTIVE_SEASON "Festive Season"
-#define GARBAGEDAY "Garbage Day"
-#define MONKEYDAY "Monkey Day"
-#define PRIDE_WEEK "Pride Week"
-#define MOTH_WEEK "Moth Week"
+#define NEW_YEAR "Новый Год"
+#define VALENTINES "День святого Валентина"
+#define APRIL_FOOLS "день Дурака"
+#define EASTER "Пасха"
+#define HALLOWEEN "Хэллоуин. Бу-га-га"
+#define CHRISTMAS "Рождество"
+#define FESTIVE_SEASON "сезонный фестиваль"
+#define GARBAGEDAY "день Мусора"
+#define MONKEYDAY "неделя Обезьяны"
+#define PRIDE_WEEK "Гей-парад. ЦК осуждает любое несанкционированное пробитие на станции"
+#define MOTH_WEEK "Национальная неделя мотыльков"
 /*
 
 Days of the week to make it easier to reference them.
